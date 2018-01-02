@@ -99,7 +99,11 @@ h5, h6          { font-weight: bolder }
 
 
 
-
+canvas {
+    position:absolute;
+    top:0;
+    left:0
+}
 
 .content{
     position: absolute;
@@ -287,7 +291,7 @@ h5, h6          { font-weight: bolder }
 
 /*Counter*/
 .counter{
-    margin-top: 0px;
+    margin-top: 100px;
 }
 
 .time_circles {
