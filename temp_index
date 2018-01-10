@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>Heba</title>
+	<meta charset="utf-8">
+	<meta name="author" content="heba">
+	<meta name="description" content="heba"/>
+
+	<link rel="stylesheet" type="text/css" href="css/reset.css">
+	<link rel="stylesheet" type="text/css" href="css/main.css">
+
+	<link rel="stylesheet" type="text/css" href="css/fly.css">
+    <link rel="stylesheet" type="text/css" href="css/heart.css">
+
+	<script type="text/javascript" src="js/jquery.js"></script>
+	<!--
+    <script type="text/javascript" src="js/TimeCircles.js"></script>
+    <script type="text/javascript" src="js/backstretch.js"></script>
+	<script type="text/javascript" src="js/main.js"></script>
+ -->
+	<script type="text/javascript" src="js/fly.js"></script>
+	<script type="text/javascript" src="js/heart.js"></script>
+	
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-111410934-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-111410934-1');
+</script>
+
+</head>
+<body ><!--class="bg_heart"-->
+	
+<h1>*** 2018 ***</h1>
+		<div class="flappy-dialog ">
+				
+			<h2>Happy new year</h2>
+			<!--
+			<h1>Delete your account?
+			<h3>a.h@gmail.com</h3><h6>a.h@gmail.com</h6>
+			</h1>-->
+			<img  width="100%" height="100%" alt=":(" src="img2/0.png" id="imgsrc">
+			
+			<div class="flappy-dialog-buttons">
+			  <div class="left-flap"></div>
+			  <button title="meshmesh.mail@gmail.com">HE..</button>
+			  <button title="meshmesh.mail@gmail.com">BA</button>
+			  <div class="right-flap"></div>
+			</div>
+			</div>
+	<canvas id="canvas"></canvas>
+	
+	
+	<div class="content wrapper">
+
+			
+				
+<!--Heba Allah Ahmed!  (Eng-Meshmesh)
+		<h1>test</h1>-->
+			
+		<!--<p class="description"> test test test </p>
+
+		<div class="subscription_form clearfix">
+			<div>
+		       <img src="" alt="test">
+			</div>
+		</div>
+			<div class="counter clear" data-date="2019-01-01 00:00:00"></div>
+-->
+
+
+	
+	
+	
+
+</div>
+
+	
+</body>
+<script type="text/javascript" src="js/fireworks2.js"></script>
+</html>
